@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Prueba GitHub 2</title>
 
-    Hello world
+
 
 </head>
 <body>
